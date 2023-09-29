@@ -26,8 +26,12 @@ Es aquella que presenta una variacion discontinua con el tiempo y que solo puede
 Es una señal que varia de forma continua a lo largo del tiempo
 *Diferencia*
 La señal analog  es continua y puede tomar infinitos valores, y una señal diguitales discontinua y solo puede tomas dos valores o estados 
+
+
 Actividad 2.3"Diferencias entre las frecuencias AM y FM".
-AM: Dicha frecuencia es más barata.
+AM: 
+•Dicha frecuencia es más barata.
 • Tiene más alcancé.
-FM: Tiene más ancho de banda 
+FM: 
+•Tiene más ancho de banda 
 •Le afecta menos el ruido.
